@@ -43,12 +43,11 @@ Stay tuned — I’ll be pinning my best ones here soon! 🚀
 ### 🔗 Live Projects  
 
 - **🎯 Project Flow** — A Kanban-style project management system built with React, ShadCN UI, and Firebase.  
-  🔴 [Live Demo]([https://your-project-manager.vercel.app](https://project.hasnain.site/)) 
+  🔴 [Live Demo](https://project.hasnain.site)
 
-- **🛒 E-Commerce App** — .  
-  🔴 [Live Demo]([https://your-ecommerce-app.vercel.app](http://shaaforganical.com/)) 
+- **🛒 E-Commerce App** — A full-featured e-commerce platform with product management and secure checkout.  
+  🔴 [Live Demo](http://shaaforganical.com)
 
----
 
 ## 📊 GitHub Stats  
 
