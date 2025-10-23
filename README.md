@@ -1,7 +1,7 @@
 <!-- Optional Banner -->
 <!-- ![Header](https://raw.githubusercontent.com/hasnain-a7/hasnain-a7/main/banner.png) -->
 
-# 👋 Hi, I'm Hasnain Ahmad  
+#  Hi, I'm Hasnain Ahmad  
 
 💻 A passionate **React Frontend Developer** dedicated to crafting modern, responsive, and user-friendly web applications.  
 🚀 I specialize in turning ideas into interactive experiences using **React, TailwindCSS, and Firebase**, while continuously exploring advanced tools like **Next.js** and **Web3**.  
@@ -39,6 +39,14 @@
 
 I’m currently working on exciting projects in **React, Firebase, and MERN stack**.  
 Stay tuned — I’ll be pinning my best ones here soon! 🚀  
+
+### 🔗 Live Projects  
+
+- **🎯 Project Flow** — A Kanban-style project management system built with React, ShadCN UI, and Firebase.  
+  🔴 [Live Demo]([https://your-project-manager.vercel.app](https://project.hasnain.site/)) 
+
+- **🛒 E-Commerce App** — .  
+  🔴 [Live Demo]([https://your-ecommerce-app.vercel.app](http://shaaforganical.com/)) 
 
 ---
 
